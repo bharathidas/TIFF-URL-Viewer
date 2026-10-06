@@ -2,7 +2,7 @@
 
 A Mendix pluggable widget that shows TIFF images in the browser. It loads the TIFF file from a URL in a String attribute (for example the URL of a Mendix file document), shows every page of the file, fits the pages to the box and offers optional Zoom in, Zoom out and Reset buttons.
 
-![TIFF URL Viewer](docs/screenshot-1.png)
+![TIFF URL Viewer](docs/cover.jpg)
 
 ## Documentation
 

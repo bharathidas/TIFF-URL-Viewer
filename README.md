@@ -4,6 +4,10 @@ A Mendix pluggable widget that shows TIFF images in the browser. It loads the TI
 
 ![TIFF URL Viewer](docs/screenshot-1.png)
 
+## Documentation
+
+- [TIFF URL Viewer 10.24.17.docx](docs/TIFF%20URL%20Viewer%2010.24.17.docx): install, upgrade, configuration, properties, examples, styling and limitations.
+
 ## Version 1.1.0 for Mendix Studio Pro 10.24.17
 
 - Download `mendix.TiffURLViewer.mpk` from the release [Version1.1.0](https://github.com/bharathidas/TIFF-URL-Viewer/releases/tag/Version1.1.0) or from the root of this repository.
